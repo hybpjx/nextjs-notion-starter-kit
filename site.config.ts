@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '始識`s的博客',
-  domain: 'https://www.notion.so/s-Blogs-9674c052f4fa433b97730bd679364fce',
+  domain: 'poised-grip-9ae.notion.site/s-Blogs-9674c052f4fa433b97730bd679364fce',
   author: '始識',
 
   // open graph metadata (optional)
