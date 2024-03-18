@@ -5,11 +5,11 @@ import styles from './styles.module.css'
 export const GitHubShareButton: React.FC = () => {
   return (
     <a
-      href='https://github.com/hybpjx/nextjs-notion-starter-kit'
+      href='https://github.com/hybpjx'
       target='_blank'
       rel='noopener noreferrer'
       className={styles.githubCorner}
-      aria-label='View source on GitHub'
+      aria-label='访问我的github'
     >
       <svg
         width='80'
